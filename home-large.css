@@ -75,8 +75,9 @@ footer p{
     font-size: 20px;
 }
 .oi{
-    font-size: 50px;
-    color: #4A7C59;
+    font-size: 25px;
+    color: rgb(63, 68, 64);
+    padding: 300px;
 }
 b{
     color: #4A7C59;
@@ -100,7 +101,7 @@ nav{
     align-items: center;
     min-height: 10px;
     background-color: #4A7C59;
-    height: 70px;
+    height: 50px;
     width: 100%;
 }
 .nav-links{
