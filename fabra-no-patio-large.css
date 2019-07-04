@@ -25,22 +25,28 @@ p{
     padding: 300px;
 }
 .fb1{
+    text-align: justify;
     font-size: 20px;
     color:rgb(63, 68, 64);
 }
-.fabra-no-patio-logo{
+.fabralogo{
     text-align: center;
 }
-.fabra-no-patio-logo img{
-    width: 300px;
-    height: 250px;
+.fabralogo img{
+    width: 370px;
+    height: 320px;
 }
-.fabra-no-patio-banner{
+.fabrabanner{
     float: left;
+    border: 5px solid #4A7C59;
 }
-.fabra-no-patio-banner img{
-    width: 200px;
-    height: 220px;
+.fabrabanner img{
+    width: 400px;
+    height: 350px;
+}
+.vazio{
+    color: #E5E5E5; 
+    font-size: 140px;
 }
 footer{
     background: #4A7C59;
