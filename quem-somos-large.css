@@ -43,9 +43,12 @@ p{
     color: rgb(63, 68, 64);
     padding: 300px;
 }
+.fotogrupo{
+    text-align: center;
+}
 .fotogrupo img{
-   width: 200px;
-   height: 150px;
+    height: 400px;
+    width: 550px;
 }
 nav{
     top: 1px;
