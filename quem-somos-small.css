@@ -25,8 +25,9 @@ p{
     font-size: 18px;
     color: rgb(63, 68, 64);
 }
+.fotogrupo{
+    text-align: center;
 .fotogrupo img{
-    text-align: right;
     width: 200px;
     height: 160px;
 }
