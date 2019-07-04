@@ -44,6 +44,13 @@ p{
 .img{
     text-align: center;
 }
+.pms{
+    text-align: center;
+}
+.pms img{
+    width: 200px;
+    height: 200px;
+}
 b{
     color: #4A7C59;
     font-size: 20px;

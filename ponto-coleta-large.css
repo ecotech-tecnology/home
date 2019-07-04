@@ -24,8 +24,12 @@ p{
     height: 340px;
 
 }
-.cacamba{
+.pms{
     text-align: center;
+}
+.pms img{
+    width: 300px;
+    height: 300px;
 }
 .reciclagem-brasil img{
     width: 270px;
