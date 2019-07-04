@@ -39,8 +39,9 @@ p{
     margin-top: 20px;
 }
 .oi{
-    font-size: 50px;
-    color: #4A7C59;
+    font-size: 25px;
+    color: rgb(63, 68, 64);
+    padding: 300px;
 }
 .fotogrupo img{
    width: 200px;
