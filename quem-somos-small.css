@@ -23,31 +23,36 @@ p{
 }
 .oi{
     font-size: 18px;
-    color: rgb(63, 68, 64);
+    color: rgb(63, 68, 64); 
 }
-.fotogrupo{
-    text-align: center;
-.fotogrupo img{
-    width: 200px;
-    height: 160px;
-}
-
-/* LOGO INICIAL TOPO*/
 .logohome{ 
     text-align: center;   
 }
-
-
 .img{
     text-align: center;
 }
-
 .fim{
     color:#E5E5E5;
     margin-top: 20px;
-
 }
-
+footer{
+    background: #4A7C59;
+    height:100px ;
+}
+footer img{
+    float: left;
+    width: 70px;
+    height: 50px;
+}
+footer p{
+    text-align: center;
+    font-size: 13px;
+}
+.fotogrupo img{
+    text-align: right;
+    width: 200px;
+    height: 160px;
+}
 nav{
     top: 1px;
     border-radius: 7px 7px;
@@ -64,9 +69,7 @@ nav{
     margin-top: 1px;
     display: flex;
     width: 1px;
-
 }
-/*Ponto no inicio na palavra no menu*/
 .nav-links li{
     list-style: none;
     margin: 13px;
